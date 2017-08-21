@@ -1,0 +1,10 @@
+name: VoidCommand
+main: com.spigot.vcmd.Main
+description: Run a command when player fall into void!
+version: 1.1
+
+commands:
+  voidcommand:
+    description: Main command of this plugin
+    usage: /<command>
+    aliases: [vcmd]

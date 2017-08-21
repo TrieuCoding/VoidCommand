@@ -1,0 +1,9 @@
+prefix: '&7[&aVoidCommand&7]&r '
+no-permissions: '&cYou dont have permissions to do this!'
+reload: '&aReload config!'
+check-update: true
+commands:
+  player:
+    - tell {player} Hello SpigotMC!
+  console:
+    - eco give {player} 100
